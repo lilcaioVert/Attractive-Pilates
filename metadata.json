@@ -1,0 +1,6 @@
+{
+  "name": "Attractive Pilates",
+  "description": "Landing page do estúdio Attractive Pilates em Copacabana para agendamento de aula experimental gratuita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
